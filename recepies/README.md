@@ -1,0 +1,1 @@
+Put your recepies in the recepies directory, one recepie per file
